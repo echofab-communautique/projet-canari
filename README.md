@@ -56,4 +56,22 @@ Le canari sentinelle
 
 ## Objectif général
 Le Projet Canari contribue à développer la littératie numérique et environnementale et à rendre les citoyens acteurs de la mesure de la qualité de l’air en les accompagnant à fabriquer des micro-capteurs.  
-Par la formation aux enjeux de la production et de l’utilisation des données ouvertes, il outillera concrètement les citoyens, dont des nouveaux arrivants, en améliorant leurs compétences et connaissances pour utiliser l’Internet et les données de manière signifiante et sécuritaire.
+Par la formation aux enjeux de la production et de l’utilisation des données ouvertes, il outillera concrètement les citoyens, dont des nouveaux arrivants, en améliorant leurs compétences et connaissances pour utiliser l’Internet et les données de manière signifiante et sécuritaire.  
+
+## Réalisation  
+
+Les fichiers de production sont téléchargeables dans les dossiers de ce projet:  
+* 1_3Dprint  
+* 2_Vinyle  
+* 3_Laser  
+  
+A venir:  
+* fichier pour PCB (production en mode Fab Lab)  
+* BOM  
+
+## Montage  
+A venir  
+
+![Prod Nicole](https://user-images.githubusercontent.com/65183668/88374761-9b287900-cd9a-11ea-88eb-7fd440376410.JPG)
+![production3](https://user-images.githubusercontent.com/65183668/88374768-9cf23c80-cd9a-11ea-9560-c96102b47028.png)
+![production](https://user-images.githubusercontent.com/65183668/88374770-9ebc0000-cd9a-11ea-9215-9414950eca64.jpg)
