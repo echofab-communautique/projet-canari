@@ -2,18 +2,18 @@
 captation citoyenne de données sur la qualité de l’air
 
 
-_Les bien commun de l’environnement_
+_Les bien commun de l’environnement_  
 Communautique, en tant qu’organisme de démocratisation des technologies, souhaite créer un espace de conversation sur les données ouvertes, les capteurs et leurs usages. Le Projet Canari vise à développer des contenus de formation pratiques de création et d’appropriation des données locales pour la résolution d’enjeux urbains, comme la qualité de l’air.  
 
 ## Le processus en bref:  
 Utiliser les Fab Labs (espaces citoyens) pour prendre actions sur le changement climatique
 
-1- Une marche de sensibilisation de son environnement  “Rendre l’invisible visible”
-2- Construction d’un outils permettant de capter par le citoyen
-  2.1- Introduction au fab lab et technologie de fabrication numérique
-3- Installation et captation (contribution ou création de data citoyenne)
-4- Retour et analyse des données captée
-5- Recherche de solutions
+1- Une marche de sensibilisation de son environnement  “Rendre l’invisible visible”  
+2- Construction d’un outils permettant de capter par le citoyen  
+  2.1- Introduction au fab lab et technologie de fabrication numérique  
+3- Installation et captation (contribution ou création de data citoyenne)  
+4- Retour et analyse des données captée  
+5- Recherche de solutions  
 6- Processus itératif en amélioration continue  
 
 ## Besoins  
@@ -23,9 +23,9 @@ Le Projet Canari souhaite ainsi contribuer à :
 * Connecter le citoyen aux notions de changement climatique (rendre visible la dimension invisible des changements climatiques dans des ancrages locaux). Les changements climatiques ont trop souvent quelque chose d’abstrait, mais pour beaucoup de citoyens, avoir un air respirable dans notre ville est la priorité environnementale.
 * Valoriser le savoir scientifique en recueillant les données par une méthodologie de recherche  
 
-Afin d'accompagner les citoyen.nes dans leur démarche de captation, une escouade des données («data squad») - composée de personnes aux compétences complémentaires (techniques, anthropolo/ethnologique, communication/animation) - sera formée afin d'animer et de soutenir la participation au projet. Cette petite équipe terrain joue un rôle crucial de médiation «socio-technique» - en proximité avec les participant.e.s du projet : elle facilite l'appropriation de l'instrumentation, identifie des opportunités d'intervention, soutient les processus de collecte, d'analyse et d'interprétation des données. L'escouade est également responsable de la mutualisation des informations collectées (en respectant les cadres et les règles de confidentialité et de protection des renseignements personnels), dans la perspective de constitution d'un commun des données citoyennes sur l'environnement.
-﻿
-Le temps de la data squad :
+Afin d'accompagner les citoyen.nes dans leur démarche de captation, une escouade des données («data squad») - composée de personnes aux compétences complémentaires (techniques, anthropolo/ethnologique, communication/animation) - sera formée afin d'animer et de soutenir la participation au projet. Cette petite équipe terrain joue un rôle crucial de médiation «socio-technique» - en proximité avec les participant.e.s du projet : elle facilite l'appropriation de l'instrumentation, identifie des opportunités d'intervention, soutient les processus de collecte, d'analyse et d'interprétation des données. L'escouade est également responsable de la mutualisation des informations collectées (en respectant les cadres et les règles de confidentialité et de protection des renseignements personnels), dans la perspective de constitution d'un commun des données citoyennes sur l'environnement.  
+
+Le temps de la data squad :  
 * ils accompagnent le lancement du projet
 * ils accompagnent la fabrication au Fab Lab des capteurs
 * accompagnent hebdomadaire/ visite – formation des capteurs et accompagnement virtuel/ à travers la plateforme
