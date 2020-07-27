@@ -1,6 +1,7 @@
 # projet-canari
 captation citoyenne de données sur la qualité de l’air
 
+![canari](https://user-images.githubusercontent.com/65183668/88518769-4cc0e780-cff1-11ea-9ab4-789a533bc584.jpg)
 
 _Les bien commun de l’environnement_  
 Communautique, en tant qu’organisme de démocratisation des technologies, souhaite créer un espace de conversation sur les données ouvertes, les capteurs et leurs usages. Le Projet Canari vise à développer des contenus de formation pratiques de création et d’appropriation des données locales pour la résolution d’enjeux urbains, comme la qualité de l’air.  
