@@ -61,20 +61,44 @@ Le canari sentinelle
 Le Projet Canari contribue à développer la littératie numérique et environnementale et à rendre les citoyens acteurs de la mesure de la qualité de l’air en les accompagnant à fabriquer des micro-capteurs.  
 Par la formation aux enjeux de la production et de l’utilisation des données ouvertes, il outillera concrètement les citoyens, dont des nouveaux arrivants, en améliorant leurs compétences et connaissances pour utiliser l’Internet et les données de manière signifiante et sécuritaire.  
 
+## Nomenclature (BOM)
+
+[BOM.pdf](https://github.com/echofab-communautique/projet-canari/files/5006105/BOM.pdf)
+
+Elements:
+1x Jumper Cable
+1x Cable USB
+1x Arduino Nano
+1x Ecran OLED
+1x Senseur PM2.5
+1x PCB
+1x Résistance 150 Ohms
+1x Cap 220 uF
+2x Terminal Block 5mm / 3pos
+2x Terminal Block 5mm / 2pos
+﻿
+Autres:
+Fil à pêche (30cm)
+Impressions 3D (coeur, set de press pin -bec & tail miroir) => voir dossier 1_3Dprint
+Découpe laser du profil extérieur => voir dossier 3_Laser
+Découpe vinyle des ailes => voir dossier 2_Vinyle
+Tournevis
+﻿
+Pour plus de détails, vous pouvez télécharger et consulter le fichier BOM.pdf
+
 ## Réalisation  
 
 Les fichiers de production sont téléchargeables dans les dossiers de ce projet:  
 * 1_3Dprint  
 * 2_Vinyle  
 * 3_Laser  
-  
-A venir:  
-* fichier pour PCB (production en mode Fab Lab)  
-* BOM  
+* 4_CNC_PCB
+* 5_Code
 
 ## Montage  
-A venir  
+[Guide Atelier canariF.pdf](https://github.com/echofab-communautique/projet-canari/files/5006104/Guide.Atelier.canariF.pdf)
 
-![Prod Nicole](https://user-images.githubusercontent.com/65183668/88374761-9b287900-cd9a-11ea-88eb-7fd440376410.JPG)
+
+![IMG_4459](https://user-images.githubusercontent.com/65183668/89019501-aab93c00-d31d-11ea-828e-dc588553d5dd.JPG)
 ![production3](https://user-images.githubusercontent.com/65183668/88374768-9cf23c80-cd9a-11ea-9560-c96102b47028.png)
 ![production](https://user-images.githubusercontent.com/65183668/88374770-9ebc0000-cd9a-11ea-9215-9414950eca64.jpg)
