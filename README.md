@@ -97,12 +97,12 @@ Les fichiers de production sont téléchargeables dans les dossiers de ce projet
 
 ## Montage  
 
-Tutoriel vidéo:
+Tutoriel vidéo:  
 [![](http://img.youtube.com/vi/UymSCfy-eLw/0.jpg)](http://www.youtube.com/watch?v=UymSCfy-eLw "")
 
 
 Tutoriel PDF:
-[Guide Atelier canariF.pdf](https://github.com/echofab-communautique/projet-canari/files/5006104/Guide.Atelier.canariF.pdf)
+[Guide Atelier canariF2.pdf](https://github.com/echofab-communautique/projet-canari/files/5026637/Guide.Atelier.canariF2.pdf)
 
 Quelques photos:
 ![IMG_4459](https://user-images.githubusercontent.com/65183668/89019501-aab93c00-d31d-11ea-828e-dc588553d5dd.JPG)
